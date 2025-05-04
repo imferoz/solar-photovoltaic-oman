@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://solar-photovoltaic-oman.alwejhagroup.com/sitemap.xml
